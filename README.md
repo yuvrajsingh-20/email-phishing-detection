@@ -1,2 +1,2 @@
 # email-phishing-detection
-PhishDetect: Lightweight Phishing Email Detection  PhishDetect is a lightweight, memory-efficient Python application designed to detect phishing emails in day-to-day scenarios. It is tailored for ordinary users, offering an easy-to-use and practical solution for cybersecurity awareness without requiring heavy storage or complex setups.
+PhishDetect is a lightweight Python app that detects phishing emails using Linear Regression and Random Forest models. It provides predictions, metrics (TP, TN, FP, FN, accuracy), and stores results efficiently in CSV/JSON, designed for everyday users with minimal storage needs.
